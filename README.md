@@ -1,2 +1,2 @@
-# HTML-Report
+# ReportHTML
 Dynamic HTML report produced by PowerShell.
